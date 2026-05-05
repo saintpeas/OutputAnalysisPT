@@ -37,7 +37,6 @@ All three methods converge on a steady-state queue length near **≈ 12 customer
 
 ```bash
 git clone https://github.com/saintpeas/OutputAnalysisPT.git
-cd steady-in-the-noise
 pip install numpy matplotlib scipy
 python simulation_output_analysis.py
 ```
