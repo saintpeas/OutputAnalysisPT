@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Explanation Video](https://drive.google.com/drive/folders/1q8ObatHjs2BSLi9zvh6pzg9DGpiX6GcF)
+[Explanation Video](https://drive.google.com/file/d/1uiKu3mMxYz9_gOK87IFGAkIEZxTMdpsP/view?usp=sharing)
 
 ## Methods
 
